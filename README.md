@@ -1,10 +1,8 @@
 # Mayuri-DSA-projects
 
 1.Hotel Booking System
- • Developed an interactive hotel booking application with features like city selection, hotel details, and room
- booking, including user registration, login, and authentication for secure and personalized experiences.
- • Streamlined the booking process with features for stay dates, room types, meal plans, payment options, and
- dynamic pricing, ensuring a seamless and transparent user experience.
+ • Designed and implemented an interactive hotel booking application with features like city-wise hotel search, detailed room information, and secure user registration/login using *ArrayLists* for dynamic data handling and *primitive arrays* for room pricing and availability tracking.
+ • Enhanced the booking process with options for stay duration, room types, meal plans, and payment integration, leveraging efficient data structures to ensure seamless functionality, scalability, and a personalized user experience
 
 2.Society Management System 
  • Designed and developed a Society Management System using *Java, JDBC, MySQL, and GUI* to automate guest visit management, parking slot allocation, and interactions with ex-residents, improving operational efficiency and reducing manual errors.
